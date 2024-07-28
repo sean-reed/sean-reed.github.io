@@ -11,5 +11,5 @@ jobs:
       pages: "write"
       id-token: "write"
     with:
-      settings: "website/publishconf.py"
+      settings: "/website/publishconf.py"
       requirements: "-r requirements.txt"
