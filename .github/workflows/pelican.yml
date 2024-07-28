@@ -13,3 +13,4 @@ jobs:
     with:
       settings: "website/publishconf.py"
       requirements: "-r requirements.txt"
+      siteurl: "https://sean-reed.com"
