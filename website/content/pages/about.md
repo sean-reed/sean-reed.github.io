@@ -14,4 +14,4 @@ This blog is about:
 - general thoughts, ideas and opinions on simulation modelling.
 
 ### Get in touch
-You can reach me at sean@sean-reed.com or follow me on [LinkedIn](https://www.linkedin.com/in/seanreeds/) or [Google Scholar](https://scholar.google.com/citations?user=42ukSDsAAAAJ).
+You can reach me at sean@sean-reed.com or follow me on [LinkedIn](https://www.linkedin.com/in/seanreeds/), [Google Scholar](https://scholar.google.com/citations?user=42ukSDsAAAAJ), and [GitHub](https://github.com/sean-reed).
