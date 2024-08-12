@@ -10,6 +10,8 @@ packages = [{include = "sean_reed"}]
 python = "^3.10"
 pelican = {extras = ["markdown"], version = "^4.9.1"}
 typogrify = "^2.0.7"
+pygments = "^2.18.0"
+pygments-simtalk = "^0.1.2"
 
 
 [tool.poetry.group.dev.dependencies]
