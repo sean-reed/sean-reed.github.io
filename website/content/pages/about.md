@@ -1,17 +1,16 @@
 Title: About
 Author: Sean Reed
 Slug: about
+### Me
+Hi, I'm Sean and my background is in the simulation and reliability modelling of systems. I have worked previously as a researcher and lecturer in academia and am currently employed as a simulation engineer at [Northvolt](https://northvolt.com/) in Sweden, where we are on a mission to produce the world's greenest batteries. 
+### This blog
+Here I will write about things that interest me, including:
 
-## Me
-I'm a simulation engineer and researcher with over 15 years of experience in industry and academia. I've used a variety of simulation software libraries and tools including [SimPy](https://simpy.readthedocs.io/en/latest/), [Plant Simulation](https://www.sw.siemens.com/en-US/), and [JaamSim](https://jaamsim.com/). I've also developed custom simulation software in [Python](https://www.python.org) and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/).
+- applications of simulation and reliability modelling in research, business and industry.
+- demos, experiments, reviews and tutorials on open-source and commercial software libraries and tools for simulation and reliability modelling of systems.
+- tips, tricks and best practices for running successful modelling projects.
+- other random topics.
 
-## This blog
-This blog is about:
-
-- applications of simulation modelling to understanding and optimising complex systems and processes in business and industry.
-- demos, experiments, reviews and tutorials on open-source and commercial system and process simulation software libraries and tools.
-- data science, machine learning and AI applications in simulation modelling.
-- general thoughts, ideas and opinions on simulation modelling.
-
-### Get in touch
-You can reach me at sean@sean-reed.com or follow me on [LinkedIn](https://www.linkedin.com/in/seanreeds/), [Google Scholar](https://scholar.google.com/citations?user=42ukSDsAAAAJ), and [GitHub](https://github.com/sean-reed).
+This blog uses [Pelican](https://www.getpelican.com), an open-source static site generator written in Python, and is hosted for free on [GitHub pages](https://pages.github.com/).
+### Contact
+You can reach me at sean@sean-reed.com or follow me on [LinkedIn](https://www.linkedin.com/in/seanreeds/), [Google Scholar](https://scholar.google.com/citations?user=42ukSDsAAAAJ), or [GitHub](https://github.com/sean-reed).
