@@ -38,3 +38,4 @@ DISPLAY_PAGES_ON_MENU = True
 DELETE_OUTPUT_DIRECTORY = True
 
 BOOTSTRAP_CSS = '/static/css/bootstrap-darkly.min.css'
+PYGMENTS_STYLE = 'monokai'
