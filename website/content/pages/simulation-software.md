@@ -1,6 +1,7 @@
 Title: Software
 Author: Sean Reed
 Slug: software
+Status: hidden
 
 Here you can find some of my favourite simulation software that I have used in the past in various projects.
 
