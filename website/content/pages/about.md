@@ -2,7 +2,7 @@ Title: About
 Author: Sean Reed
 Slug: about
 ### Me
-Hi, I'm Sean and my background is in the simulation and reliability modelling of systems. I have worked previously as a researcher and lecturer in academia and am currently employed as a simulation engineer at [Northvolt](https://northvolt.com/) in Sweden, where we are on a mission to produce the world's greenest batteries. 
+Hi, I'm Sean and my background is in the simulation and reliability modelling of systems. I currently work as a simulation engineer at [Northvolt](https://northvolt.com/) in Sweden.
 ### This blog
 Here I will write about things that interest me, including:
 
