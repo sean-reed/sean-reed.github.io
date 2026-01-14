@@ -1,22 +1,18 @@
-[tool.poetry]
+[project]
 name = "sean-reed"
 version = "0.1.0"
 description = ""
-authors = ["Sean Reed <sean@sean-reed.com>"]
 readme = "README.md"
-packages = [{include = "sean_reed"}]
+authors = [
+    {name = "Sean Reed", email = "sean@sean-reed.com"},
+]
+requires-python = "<4.0,>=3.10"
+dependencies = [
+    "pelican[markdown]<5.0.0,>=4.9.1",
+    "typogrify<3.0.0,>=2.0.7",
+    "pygments<3.0.0,>=2.18.0",
+    "pygments-simtalk<1.0.0,>=0.1.2",
+]
 
-[tool.poetry.dependencies]
-python = "^3.10"
-pelican = {extras = ["markdown"], version = "^4.9.1"}
-typogrify = "^2.0.7"
-pygments = "^2.18.0"
-pygments-simtalk = "^0.1.2"
-
-
-[tool.poetry.group.dev.dependencies]
-poetry-plugin-export = "^1.8.0"
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+[tool.uv]
+default-groups = []
