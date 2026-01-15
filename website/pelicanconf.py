@@ -1,14 +1,14 @@
-AUTHOR = 'Sean Reed'
-SITENAME = 'Sean Reed'
+AUTHOR = "Sean Reed"
+SITENAME = "Sean Reed"
 SITEURL = ""
 
 PATH = "content"
 
-TIMEZONE = 'Europe/Stockholm'
+TIMEZONE = "Europe/Stockholm"
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = "en"
 
-SITESUBTITLE = "On the simulation of complex systems and processes"
+SITESUBTITLE = "creating software, simulations, and other stuff"
 HIDE_AUTHORS = True
 
 # Feed generation is usually not desired when developing
@@ -28,14 +28,14 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 10
 
-STATIC_PATHS = ['static']
+STATIC_PATHS = ["static"]
 
-THEME = '../themes/alchemy'
+THEME = "../themes/alchemy"
 
 USE_FOLDER_AS_CATEGORY = True
-DEFAULT_CATEGORY = 'misc'
+DEFAULT_CATEGORY = "misc"
 DISPLAY_PAGES_ON_MENU = True
 DELETE_OUTPUT_DIRECTORY = True
 
-BOOTSTRAP_CSS = '/static/css/bootstrap-darkly.min.css'
-PYGMENTS_STYLE = 'monokai'
+BOOTSTRAP_CSS = "/static/css/bootstrap-darkly.min.css"
+PYGMENTS_STYLE = "monokai"
